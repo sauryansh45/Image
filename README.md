@@ -31,3 +31,7 @@ https://github.com/user-attachments/assets/8e642c4e-0a5a-47b1-9551-c12797d314fc
     <img src="Bug-Evidence/bug-11.png" width="400" height="400"/>
   </a>
 </p>
+
+### 🎥 Bug Reproduction Video 4
+
+https://github.com/user-attachments/assets/7190194c-7e1b-4664-8d39-2cc1f4e9086c

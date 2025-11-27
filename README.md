@@ -4,6 +4,8 @@
 
 ### Evidence
 
-![Bug 11 Evidence retry](Bug-Evidence/bug-11.png)
+<p align="center">
+  <img src="Bug-Evidence/bug-11.png" width="700"/>
+</p>
 
 ---

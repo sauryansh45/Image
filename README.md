@@ -13,3 +13,13 @@
 ### 🎥 Bug Reproduction Video
 
 https://github.com/user-attachments/assets/7d363bc9-ca16-4a7e-87a3-1a277bf0db49
+
+---
+
+---
+
+### 🎥 Bug Reproduction Video 2
+
+https://github.com/user-attachments/assets/8e642c4e-0a5a-47b1-9551-c12797d314fc
+
+---

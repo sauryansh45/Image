@@ -35,3 +35,5 @@ https://github.com/user-attachments/assets/8e642c4e-0a5a-47b1-9551-c12797d314fc
 ### 🎥 Bug Reproduction Video 4
 
 https://github.com/user-attachments/assets/7190194c-7e1b-4664-8d39-2cc1f4e9086c
+
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/3dd84be6-92f1-4a62-abca-5edc4c300e89" />
